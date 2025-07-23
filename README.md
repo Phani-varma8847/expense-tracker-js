@@ -1,2 +1,25 @@
-# expense-tracker-js
-A mini web app to track income and expenses, show the total balance, and dynamically update the UI. It's a simple app using HTML, CSS, and Vanilla JavaScript, no backend or database.
+# 💸 Expense Tracker
+
+A simple and responsive **Expense Tracker Web App** built with HTML, CSS, and JavaScript. Users can log income and expenses, and the app automatically calculates balance, totals, and lists transactions.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Live Here](https://<your-username>.github.io/expense-tracker-js)
+
+---
+
+## ⚙️ Features
+
+- Add income or expense transactions
+- See total balance and breakdown
+- Automatically updates the UI
+- Fully responsive design
+- No external libraries used
+
+---
+
+## 📂 Project Structure
+
+
